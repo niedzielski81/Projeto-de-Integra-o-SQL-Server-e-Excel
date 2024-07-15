@@ -74,7 +74,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ### Vendas por Categoria
 
-![image](https://github.com/user-attachments/assets/35dfdf47-5305-4eaf-8628-bcacf812eec5)
+![image](https://github.com/user-attachments/assets/52d96f43-7355-4da2-9d62-30a5fa7f0187)
 
 ### Vendas por Gênero
 
