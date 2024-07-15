@@ -58,7 +58,7 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 
 ### Dashboard Resultante
 
-![Dashboard de Vendas](Dashboard.PNG)
+![image](https://github.com/user-attachments/assets/6e2119e0-a13d-4e8f-942f-72a96236e1e5)
 
 ### Screenshots e Exemplos
 
