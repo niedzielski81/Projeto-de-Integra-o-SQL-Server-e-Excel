@@ -78,7 +78,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ### Vendas por Gênero
 
-![Vendas por Gênero](vendas_por_genero.png)
+![image](https://github.com/user-attachments/assets/12d66cf1-d4af-49d5-91ae-50c35c7f22de)
 
 ## Conclusão
 
