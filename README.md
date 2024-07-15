@@ -94,7 +94,7 @@ Esses são apenas alguns exemplos dos dados relevantes que podem ser extraídos 
 
 1. Clone o repositório:
 
-    git clone https://github.com/seu_usuario/nome_do_repositorio.git
+    git clone https://github.com/niedzielski81/Projeto-de-Integra-o-SQL-Server-e-Excel.git
 
     
 2. Abra o projeto no seu editor de preferência.
