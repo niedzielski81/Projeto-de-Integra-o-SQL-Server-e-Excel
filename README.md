@@ -52,14 +52,13 @@ JOIN
 ```
 
 
-
 ## Integração com o Excel
 
 Após a criação da view VENDAS, os dados foram importados para o Excel utilizando ferramentas como Microsoft Query ou Power Query. No Excel, foram criadas tabelas dinâmicas, gráficos e outros recursos para analisar os indicadores de vendas definidos no projeto.
 
 ### Dashboard Resultante
 
-![Dashboard de Vendas](dashboard.png)
+![Dashboard de Vendas](Dashboard.PNG)
 
 ### Screenshots e Exemplos
 
@@ -90,3 +89,17 @@ Tendências de vendas ao longo do tempo: Ao analisar a receita total online por 
 Análise de vendas por país: Ao analisar a receita e o custo total online por país, podemos identificar quais países têm o maior volume de vendas e onde os recursos estão sendo investidos proporcionalmente. Isso permite uma alocação de recursos mais eficiente e a identificação de mercados que podem ser promissores para expansão.
 Segmentação do mercado por sexo do cliente: Ao analisar o total de vendas online por sexo do cliente, podemos identificar diferenças no comportamento de compra entre homens e mulheres. Essas informações são valiosas para personalização de marketing e campanhas direcionadas.
 Esses são apenas alguns exemplos dos dados relevantes que podem ser extraídos da análise de vendas da AdventureWorks Cycles. Com base nesses insights, é possível tomar decisões informadas para impulsionar o crescimento e o sucesso do negócio.
+
+## Como visualizar o código
+
+1. Clone o repositório:
+
+    git clone https://github.com/seu_usuario/nome_do_repositorio.git
+
+    
+2. Abra o projeto no seu editor de preferência.
+
+3. Siga as instruções no arquivo README para configurar o ambiente e executar as queries.
+
+Ao disponibilizar os códigos SQL e o dashboard, o seu portfólio GitHub se tornará uma ótima referência para as suas habilidades em SQL e análise de dados. Boa sorte com sua apresentação!
+
