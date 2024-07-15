@@ -70,7 +70,7 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 ### Vendas por Mês
 
-![Vendas por Mês](vendas_por_mes.png)
+![image](https://github.com/user-attachments/assets/2489abdc-976a-40b8-8391-0ec841018aea)
 
 ### Vendas por Categoria
 
